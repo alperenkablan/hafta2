@@ -1,0 +1,28 @@
+
+h1{
+    color: red ;
+}
+
+h2{
+    color: brown;
+}
+h3{
+    color: coral;
+}
+h4{
+    color: burlywood;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.center{
+    padding: 10px;
+    width: auto;
+    margin-left:700px;
+}
+.image{
+    width:400px;
+    height:400px;
+}
